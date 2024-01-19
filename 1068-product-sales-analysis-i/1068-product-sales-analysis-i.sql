@@ -1,3 +1,3 @@
-SELECT B.product_name, A.year, A.price
-FROM Sales as A JOIN Product AS B
-WHERE A.product_id = B.product_id
+SELECT P.product_name, S.year, S.price
+FROM Sales S INNER JOIN Product P
+ON S.product_id = P.product_id;
