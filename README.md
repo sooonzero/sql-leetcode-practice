@@ -1,6 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=SQL%20인프런강의&fontSize=60)
-
+![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 
 
 
